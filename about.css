@@ -1,0 +1,139 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+    background-color: bisque;
+    color: blue;
+    border: 1px solid black;
+}
+.intro{
+    display: flex;
+    background: rgb(187, 204, 232);
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.photo{
+    width: 25%;
+    border-radius: 2px;
+    margin-left: 30px;
+}
+.text{
+    width: 75%;
+    font-size: 17px;
+}
+.btech{
+    font-size: 20px;
+}
+.contact{
+    background-color: aqua;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#heading1{
+    font-size: 20px;
+    margin-left: 40%;
+}
+.education{
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#phone{
+    margin-left: 90px;
+}
+#linked{
+    margin-left: 90px;
+}
+#insta{
+    margin-left: 90px;
+}
+.inter{
+    padding-top: 6px;
+}
+.school{
+    padding-top: 6px;
+}
+.skills{
+    background-color: rgb(43, 226, 168);
+    width: 50%;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#pphoto{
+    margin-top: 5px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+.middle{
+    display: flex;
+}
+.projects{
+    width: 50%;
+    background-color: rgb(43, 226, 168);
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.name{
+    font-size: 30px;
+}
+.main{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,145,142,0.3618697478991597) 0%, rgba(0,212,255,1) 100%);
+    height: 450px;      
+}
+.head{
+    padding-top: 40px;
+    padding-bottom: 50px;  
+    background: rgb(192,238,174);
+    background: linear-gradient(90deg, rgba(192,238,174,1) 0%, rgba(212,126,125,0.9612219887955182) 100%);
+    border-radius: 500px;
+}
+#home{
+    padding-right: 250px;
+    padding-left: 230px;
+}
+#about{
+    padding-right: 250px;
+}
+#skills{
+    padding-right: 250px;
+}
+.end{
+    background: rgb(44,168,39);
+    background: linear-gradient(90deg, rgba(44,168,39,0.3618697478991597) 6%, rgba(196,168,110,0.644782913165266) 95%);
+    padding-top: 400px;
+    text-align: center;
+    height: 150px;
+}
+#social{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.logo{
+    margin-left: 70px;
+}
+#linkedin{
+    margin-left: 30px;
+}
+#insta{
+    margin-left: 30px;
+}
+#email{
+    margin-left: 30px;
+}
+#phone{
+    margin-left: 30px;
+}
+.mid{
+    position: absolute;
+    left: calc(19% - 100px);
+    top: calc(40% - 100px);
+    height: 450px;
+    width: 1100px;
+}
